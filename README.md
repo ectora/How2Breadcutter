@@ -1,3 +1,6 @@
 # How2Grasscutter
-- Hosting
+<details>
+  <summary>Hosting</summary>
+ 
   1. [How to host in Pterodactyl](../../blob/main/hosting/pterodactyl.md)
+</details>
